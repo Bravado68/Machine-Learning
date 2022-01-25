@@ -1,8 +1,6 @@
 
- <p align="center">
- 
- ## New York City Taxi Fare Prediction
- </p>
+# New York City Taxi Fare Prediction
+
  
  <p align="center">
   <img src="https://www.cnewyork.net/wp-content/uploads/2017/03/6911906576_346f938e25_o.jpg">
