@@ -1,6 +1,7 @@
 
  <p align="center">
- # New York City Taxi Fare Prediction
+ 
+ ## New York City Taxi Fare Prediction
  </p>
  
  <p align="center">
