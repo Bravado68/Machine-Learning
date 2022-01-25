@@ -1,8 +1,11 @@
 # Machine-Learning projects
 
-Datasets from Kaggle.com
+## Datasets from Kaggle.com
 
--Regression problems
--Classification problems
+* Regression problems
+* Classification problems
 
-Using Scikit Learn and Tensorflow
+Using :
+* Scikit Learn
+* Tensorflow
+* PyTorch
