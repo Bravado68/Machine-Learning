@@ -2,7 +2,7 @@
 ## Description
 
  <p align="center">
-  <img src="https://storage.googleapis.com/kaggle-datasets-images/534640/978100/13c0e07ffd22fa6876d02514310d4cb8/dataset-card.jpg?t=2020-02-29-23-01-19">
+  <img src="https://storage.googleapis.com/kaggle-datasets-images/534640/978100/13c0e07ffd22fa6876d02514310d4cb8/dataset-card.jpg?t=2020-02-29-23-01-19.jpg">
 </p>
 
 
